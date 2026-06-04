@@ -5,7 +5,7 @@ import base64
 import time
 import threading
 
-TOKEN = "8733474633:AAFa4OAusHTflVCJGHtINnq1ifEXH5db9AA"
+TOKEN = "8733474633:AAGpJ1clKpuIV5BorbLI-Dh0eCzg5gFR6Lk"
 ADMIN_ID = 8758830915
 
 bot = telebot.TeleBot(TOKEN)
