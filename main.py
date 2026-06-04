@@ -5,7 +5,7 @@ import base64
 import time
 import threading
 
-TOKEN = ""
+TOKEN = "8733474633:AAFa4OAusHTflVCJGHtINnq1ifEXH5db9AA"
 ADMIN_ID = 8758830915
 
 bot = telebot.TeleBot(TOKEN)
@@ -13,8 +13,8 @@ bot = telebot.TeleBot(TOKEN)
 DB_FILE = "files.json"
 USERS_DB_FILE = "users.json"
 
-CHANNEL_USERNAME = "@"
-CHANNEL_LINK = "https://t.me/"
+CHANNEL_USERNAME = "@CinemaHub_Channel"
+CHANNEL_LINK = "https://t.me/CinemaHub_Channel"
 
 if os.path.exists(DB_FILE):
     try:
